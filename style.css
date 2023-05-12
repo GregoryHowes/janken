@@ -1,0 +1,14 @@
+body {
+    background-color: lightslategray;
+}
+
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.score {
+    display: flex;
+    justify-content: space-evenly;
+}
