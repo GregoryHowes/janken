@@ -94,7 +94,7 @@ function updateScores() {
     }
 
     if (computerScore == 5 || humanScore == 5) {
-        resultText.innerText += "Game over, well done!!"
+        resultText.innerText += ".  We have a winner, well done!!"
         humanScore = 0;
         computerScore = 0;
     }
